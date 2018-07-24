@@ -6,6 +6,7 @@
 - [Official docs](https://next.gatsbyjs.org/docs/)
 - [Gatsby Central (there's some good v2-specific stuff here)](https://www.gatsbycentral.com/gatsby-v2)
 - [Gatsby v2 announcement blog post - 'what's changed' etc](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/)
+- [Styled components in Gatsby](https://next.gatsbyjs.org/docs/styled-components/)
 - [GraphQL intro](https://www.howtographql.com/basics/0-introduction/)
 
 ## Useful videos
